@@ -8,7 +8,7 @@ public class TestHelloWorld {
 		@Test
 		public void secondTest(){
 		
-			System.out.println("Hi My 2nd maven pgm");
+			System.out.println("PROJECT");
 		}
 
 	
